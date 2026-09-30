@@ -14,6 +14,7 @@ package com.mauadev.code;
 // para tras (ela morreria na hora). Os TODOs marcam os proximos passos.
 // Documentacao: https://docs.battlesnake.com
 
+// 43
 import com.mauadev.code.entities.Coordinate;
 import com.mauadev.code.entities.GameState;
 
